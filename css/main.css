@@ -11,8 +11,13 @@ Hint! You'll probably want to start by styling:
 I've left some boilerplate below for you.
 
 */
+img {
+    max-width: 100%;
+
+}
 
 body {
+    width: 50em;
 
 }
 
