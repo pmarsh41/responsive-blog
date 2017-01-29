@@ -1,4 +1,9 @@
-
+picture#banner img {
+  -webkit-filter: saturate(3) opacity(0.7);
+  margin: 0 0 2em 0;
+  max-width: 100vw
+  width:100vw;
+}
 
 body {
   font-family: sans-serif;
@@ -8,7 +13,7 @@ body {
 article {
   margin: 0 auto;
   max-width: 50em;
-  border-bottom: medium dashed blue
+  border-bottom: 1px solid blue;
 }
 
 header {
